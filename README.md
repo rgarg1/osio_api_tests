@@ -9,4 +9,4 @@ jsonschema 2.6.0
 jmespath 0.9.3
 
 # Command to run
-pyresttest  https://api.openshift.io pyresttest_demo.yaml --vars="{'token':<OSIO security token>'}"
+pyresttest  https://api.openshift.io pyresttest_demo.yaml --vars="{'token':<<OSIO security token>>'}"
